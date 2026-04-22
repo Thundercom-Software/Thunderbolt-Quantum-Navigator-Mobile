@@ -6,4 +6,5 @@ Thunderbolt Quantum Navigator (Mobile), is a breath of fresh air for all the Win
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# This is supported by arm based devices running Windows 10 Mobile Creators Update (1703) and later. Any preview builds after that for the once planned 1803 will also be able to run it. It is strongly advised that you use this on a Lumia 950 XL or other higher end Lumias for the best experience due to the lack of optimization when it comes to Chromium.
+# Support extends to all arm based devices running Windows 10 Mobile Creators Update (1703) and later. 
+If you encounter any bugs please report them at once, including a screenshot and the model of phone you're using to run said application.
