@@ -10,5 +10,3 @@ On the 24th of April 2026, Thunderbolt Quantum Navigator (Mobile) was submited f
 
 # Support extends to all arm based devices running Windows 10 Mobile Creators Update (1703) and later. 
 If you encounter any bugs please report them at once, including a screenshot and the model of phone you're using to run said application.
-
-<a href="https://store.live.net.co/app/475" target="_blank"><img src="https://edge.live.net.co/images/store/2025_GetButton_Black.png" style="width: 256px;" alt="Get Thunderbolt Quantum Navigator BETA from Live Store"></a>
